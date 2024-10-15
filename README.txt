@@ -27,13 +27,13 @@ Summary:
         Evaluated model performance using metrics like accuracy and validation loss.
 
     Confusion Matrix Analysis:
-        Generated confusion matrices to assess classification performance for the onion, potato, and tomato categories, identifying areas of confusion.
+        Generated confusion matrices to assess classification performance for the onion, potato, and tomato categories, identifying areas of            confusion.
 
     VGG16 Transfer Learning:
         Leveraged a pretrained VGG16 model, adding custom layers for classification, and trained it to improve accuracy significantly.
 
     Final Results:
-        Achieved impressive accuracy rates during training and validation, with the final model showcasing high effectiveness in classifying the target categories.
+        Achieved impressive accuracy rates during training and validation, with the final model showcasing high effectiveness in classifying            the target categories.
 
     Insights and Conclusions:
-        Derived actionable insights from the analysis, emphasizing the importance of data-driven decision-making for enhancing business outcomes.
+        Derived actionable insights from the analysis, emphasizing the importance of data-driven decision-making for enhancing business                 outcomes.
